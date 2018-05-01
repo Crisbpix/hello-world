@@ -1,3 +1,3 @@
 # hello-world
 
-Testing GitHub Guide
+Going throught the GitHub Guide 
